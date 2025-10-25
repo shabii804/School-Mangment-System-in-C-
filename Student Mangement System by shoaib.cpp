@@ -221,7 +221,7 @@ void updateStudent(int total, Student data[]) {
     }
 }
 
-// Function to show student grades
+// Function to show student grade
 void showStudentWithGrade(int total, Student data[]) {
     if (total == 0) {
         cout << "No records to display.\n";
@@ -303,4 +303,3 @@ int main() {
 
     return 0;
 }
-

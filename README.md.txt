@@ -40,7 +40,7 @@ Follow the menu instructions to manage students.
 
 Shoaib Arshad
 Software Engineering Student 👨‍💻
-📍 Riphah International University
+📍 Riphah International University , Islamabad
 
 🏷️ License
 
